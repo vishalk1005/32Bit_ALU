@@ -79,6 +79,8 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option 
 
+![Screenshot (20)](https://github.com/user-attachments/assets/2a3d94fe-8a20-4a0d-8a95-337601f25072)
+
 ### Fig 4:cds.lib file Creation
 
 Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
@@ -100,6 +102,8 @@ Left side you can see the HDL files. Right side of the window has worklib and sn
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+
+![Screenshot (19)](https://github.com/user-attachments/assets/79287dd2-5ba9-486c-ba0e-cae9b140cd26)
 
 ### Fig 6: Nclaunch Window
 
@@ -173,34 +177,14 @@ Simulation allow to dump design and test bench signals into a waveform
 
 Steps for simulation – Run the simulation command with simulator options
 
+![IMG-20241119-WA0014](https://github.com/user-attachments/assets/bf242118-4236-4a0b-98fc-d3a316116679)
+
 ## Fig 9: Design Browser window for simulation
 
-## Fig 10:Simulation Waveform Window
+![image](https://github.com/user-attachments/assets/bf64963d-5f8c-4654-8709-0c99cdd149ea)
 
-## Fig 11:Simulation Waveform Window
+## Fig 10:Simulation Waveform Window
 
 ### Result
 
 The functionality of a 32-bit ALU was successfully verified using a test bench and simulated with the nclaunch tool.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
